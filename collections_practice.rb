@@ -9,3 +9,6 @@ def sort_array_asc(array)
     end
   end
 end
+
+def sort_array_desc(array)
+  array.sort
