@@ -72,7 +72,7 @@ end
   
 def sum_array(array)
   array.inject do |total, element|
-    total + increment
+    total + element
   end
 end
   
